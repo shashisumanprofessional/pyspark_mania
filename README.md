@@ -56,21 +56,23 @@
 
 ### 🔹 **3. DataFrame & Spark SQL (Most Used in Industry)** 🏭
 
-• Creating DataFrames (**CSV, JSON, Parquet, ORC**) 📑 - (Lec_1_dataframe_struc.ipynb)[Lec_1_dataframe_struc.ipynb] 
-• **Schema inference vs explicit schema** 🧠
-• **Column operations** 🧱
+• Creating DataFrames (**CSV, JSON, Parquet, ORC**) [Lec 1: DataFrame Structure](Lec_1_dataframe_struc.ipynb)
+
+• **Schema inference vs explicit schema** 🧠 
+
+• **Column operations** 🧱   [**Column operations**](column_operation(2).ipynb)
 ▸ select, withColumn, drop
 ▸ alias
 ▸ cast, when, explode, coalesce, date functions
 
-• **Filtering** 🔍
+• **Filtering** 🔍   [**Filtering**](join_handle_null.ipynb)
 ▸ where, filter
 
-• **Aggregations** 📈
+• **Aggregations** 📈        [**Aggregations**](aggregation.ipynb)
 ▸ groupBy, agg
 ▸ count, sum, avg, max, min
 
-• **Joins** 🔗
+• **Joins** 🔗              [Joins](join_handle_null.ipynb)
 ▸ inner, left, right, full
 ▸ cross join
 ▸ join conditions
