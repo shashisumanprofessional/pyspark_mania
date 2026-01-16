@@ -98,3 +98,77 @@
 • **UDF vs Pandas UDF** 🧪
 • Why **UDF is slow & alternatives** 🐢➡️🚀
 
+
+
+
+
+
+
+
+
+
+### 📦 **SECTION 2: Batch Processing (Core Data Engineering Skill)**
+
+🧠 *This is where **90% of real-world Spark jobs** lie*
+
+---
+
+### 🔹 **1. File Formats & Storage**
+
+• **CSV vs JSON vs Parquet vs ORC** 📂
+• Why **Parquet is preferred** ⭐
+• **Columnar storage** concepts 🧱
+• **Compression types** 🗜️
+• **Schema evolution** 🔄
+• **Partitioned data**
+▸ date-based 📅
+▸ region-based 🌍
+
+---
+
+### 🔹 **2. Reading & Writing Large Data**
+
+• **Read / Write options** ⚙️
+• **Write modes**
+▸ append
+▸ overwrite
+▸ ignore
+
+• **partitionBy** while writing 🧩
+• **Bucketing** (concept + usage) 🪣
+• **Handling corrupt records** 🚨
+• **Handling late-arriving data** ⏳
+
+---
+
+### 🔹 **3. Batch ETL Design Patterns**
+
+• **Ingestion → Transformation → Load** 🔄
+• **Full load vs Incremental load** ⚖️
+• **Delta load concepts** 📥
+• **Deduplication logic** 🧹
+• **SCD (Slowly Changing Dimensions)**
+▸ Type 1
+▸ Type 2
+*(conceptual + Spark approach)*
+
+• **Reprocessing strategy** ♻️
+• **Idempotent jobs** ✅
+
+---
+
+### 🔹 **4. Batch Scheduling & Orchestration**
+
+• Running Spark jobs via
+▸ **spark-submit** ▶️
+
+• **Parameterized jobs** 🎛️
+• Integration with orchestration tools
+▸ **Airflow** (conceptual) 🌬️
+▸ **Azure Data Factory / Oozie** (conceptual) ☁️
+
+• **Logging & monitoring** 📊
+• **Handling job failures & retries** 🔁
+
+
+
