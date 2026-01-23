@@ -1,5 +1,4 @@
-Got it 👍
-Below is the **same syllabus**, **same content**, but rewritten to feel **interactive, learner-friendly, and engaging**—something people will *want* to follow and learn from. No topics added or removed, only presentation + interaction cues.
+
 
 ---
 
